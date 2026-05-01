@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e4e01572a9a4c943b3251f4f3c524c1, type: 3}
+  m_Name: Config_VR
+  m_EditorClassIdentifier: Assembly-CSharp::MatchConfiguration
+  condition: 1
+  numberOfMatches: 5
+  matchTimeLimit: 180
+  participantID: P0020
+  sessionNumber: 1
+  enableVisualizations: 1
+  autoStartNextMatch: 1
+  logPerformanceData: 1
+  performanceLogInterval: 5
+  snapshotLogInterval: 0.5

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb753d9034d994643ac9119412a94470, type: 3}
+  m_Name: Gun
+  m_EditorClassIdentifier: 
+  ImpactType: 0
+  Type: 0
+  Name: 
+  ShootConfig: {fileID: 11400000, guid: 461952eddafb9284fbb1fcd1a48281c5, type: 2}
+  TrailConfig: {fileID: 11400000, guid: 6f8ad87bea75c0149932ec4706891371, type: 2}
+  Damage: 15
